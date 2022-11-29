@@ -1,6 +1,6 @@
 Ahoj!, Vítám tě v repositáři mého školního projektu. 
 Vytvořil jsem Hru Had jako úkol do informatiky zapomocí Python knihovny Pygame!
-Doufám, že si hru zahrajete, a že vás bude bavit!
+Doufám, že si hru zahrajete a že vás bude bavit!
 
 INSTALLACE: Stáhněte si složku Snake a spuste soubor Snake.exe, může se objevit varování ,že soubor je škodlivý, což není pravda Ignorujte toto varování a spuste soubor 
 
