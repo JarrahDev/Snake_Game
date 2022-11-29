@@ -1,0 +1,7 @@
+Ahoj!, Vítám tě v repositáři mého školního projektu. 
+Vytvořil jsem Hru Had jako úkol do informatiky zapomocí Python knihovny Pygame!
+Doufám že si hru zahrajete a že vás bude bavit!
+
+PRAVIDLA HRY: Pravidlo č.1 - Hra se ovládá šipkama na klávesnici, had se pohybuje sám zmáčknutím šipek se pouze mění směr!
+              Pravidlo č.2 - Nikdy nenechte hada překročit hranu herního okna! jinak vám uteče a Vy už si nezahraje ;-)
+              Pravidlo č.3 - Cílem hry je jíst jablka a hrát hru co nejdéle jak to jde a tak dosáhnou co nejvýšího skóre (Počet "kostek" které tvoříh "hada")
